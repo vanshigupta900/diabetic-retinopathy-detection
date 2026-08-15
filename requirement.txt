@@ -1,5 +1,6 @@
 streamlit
 numpy
+opencv-python-headless
 Pillow
-tensorflow
+tensorflow==2.21.0
 reportlab
